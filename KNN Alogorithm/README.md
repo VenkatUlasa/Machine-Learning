@@ -3,6 +3,7 @@ This project focuses on developing a predictive model for diagnosing breast canc
 <p align="center">
   <img src="https://wisdomml.in/wp-content/uploads/2023/04/breast_cancer.png" alt="Sample Image" width="800" height="400">
 </p>
+
 ## K-Nearest Neighbors (KNN)
 
 The K-Nearest Neighbors (KNN) algorithm is a simple and widely used supervised machine learning algorithm for both classification and regression tasks. It works by finding the "K" training examples that are closest to a new data point and makes predictions based on those nearest neighbors.
@@ -23,6 +24,7 @@ For a new data point, KNN calculates the distance between this point and all poi
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*CCZt1t82V15ITnGzQH6qOg.png" alt="Sample Image" width="500" height="250">
 </p>
+
 ### Identify Nearest Neighbors: 
 After calculating the distances, KNN identifies the K points in the training set that are closest to the new data point.
 
